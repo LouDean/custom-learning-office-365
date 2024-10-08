@@ -1,7 +1,7 @@
 [
   {
     "Id": "52d3a117-a317-49d3-9d81-5685fc22a27c",
-    "Title": "How to edit a video in Clipchamp ",
+    "Title": "How to edit a video in Clipchamp",
     "Description": "",
     "Url": "https://support.microsoft.com/en-gb/client/how-to-edit-a-video-in-clipchamp-fedb7b6c-4d31-496b-837f-474bc9aa2367#ID0EBD=Work_version?embed=true",
     "TechnologyId": "",
@@ -12,7 +12,7 @@
   },
   {
     "Id": "8bd82059-611c-46de-89a0-8e4c5660b711",
-    "Title": "Cut and paste within Clipchamp ",
+    "Title": "Cut and paste within Clipchamp",
     "Description": "",
     "Url": "https://support.microsoft.com/en-gb/client/how-to-copy-and-paste-in-clipchamp-b8c51c23-45e7-492d-acea-3a5688d620ca?embed=true",
     "TechnologyId": "",
@@ -20,7 +20,38 @@
     "Source": "Microsoft",
     "StatusTagId": "",
     "StatusNote": ""
+  },
+{
+    "Id": "68e5e19c-9aaa-4733-9b3a-3dd060312117",
+    "Title": "How to undo and redo actions on the timeline",
+    "Description": "After adding a video or other asset to the timeline and performing an editing function, the undo and redo buttons will appear in white above the editing timeline. ",
+    "Url": "https://support.microsoft.com/en-us/client/how-to-undo-or-redo-actions-on-the-timeline-349b9f2b-8c3b-4925-bd7c-708898ec0326?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+{
+    "Id": "14784ec0-c5bb-4700-8390-ce76caab00d8",
+    "Title": "Working with the timeline",
+    "Description": "The following introduction to working with an editing timeline will help you understand how to get started with a video editing project.",
+    "Url": "https://support.microsoft.com/en-us/client/working-with-the-timeline-80ad81aa-d81e-45e9-bf9b-538c0f7202a4#ID0EBD=Work_version?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "1b136dcc-66ce-4d86-a75a-df2032097458",
+    "Title": "Changing the aspect ratio",
+    "Description": "",
+    "Url": "https://support.microsoft.com/en-us/client/how-to-change-the-aspect-ratio-of-a-video-in-clipchamp-b4744906-a928-4e8c-93c8-69515fb25cb3?embed=true",
+    "TechnologyId": "",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
   }
-
-
 ]
